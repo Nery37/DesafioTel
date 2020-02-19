@@ -18,3 +18,4 @@ O projeto se trata de um CRUD desenvolvido com Laravel e MySQL.
 <p>Passo 3: Executar o comando "composer install" e logo depois "composer update"</p>
 <p>Passo 4: Criar um banco de dados com o nome "projetolaravel" no seu Mysql. Obs: Verificar credenciais do banco no arquivo .env</p>
 <p>Passo 5: Executar as migrates do projeto (php artisan migrate)</p>
+<p>Passo 6: Subir o servidor (php artisan serve) e acessar a rota http://localhost:8000/login </p>
