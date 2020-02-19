@@ -13,8 +13,8 @@ O projeto se trata de um CRUD desenvolvido com Laravel e MySQL.
 
 ## Sobre a instalação
 
-Passo 1: Baixar o projeto neste repositório
-Passo 2: Habilitar as extensões (curl, fileinfo, gd2, intl, imap, mbstring, openssl, pdo_mysql e pdo_sqlite) no seu php.ini
-Passo 3: Executar o comando "composer install" e logo depois "composer update"
-Passo 4: Criar um banco de dados com o nome "projetolaravel" no seu Mysql. Obs: Verificar credenciais do banco no arquivo .env
-Passo 5: Executar as migrates do projeto (php artisan migrate)
+<p>Passo 1: Baixar o projeto neste repositório</p>
+<p>Passo 2: Habilitar as extensões (curl, fileinfo, gd2, intl, imap, mbstring, openssl, pdo_mysql e pdo_sqlite) no seu php.ini</p>
+<p>Passo 3: Executar o comando "composer install" e logo depois "composer update"</p>
+<p>Passo 4: Criar um banco de dados com o nome "projetolaravel" no seu Mysql. Obs: Verificar credenciais do banco no arquivo .env</p>
+<p>Passo 5: Executar as migrates do projeto (php artisan migrate)</p>
